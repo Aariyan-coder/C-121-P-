@@ -1,0 +1,49 @@
+body
+{
+  color: black;
+  background: antiquewhite;
+}
+
+span
+{
+  font-size: 30px;
+}
+
+h4
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#result
+{
+  border: 2px dashed black;
+  width: 354px;
+  height: 303px; 
+}
+
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+
+.emotion_name
+{
+  font-size: 40px;
+}
+
+.emoji
+{
+  font-size:48px;
+}
+
+.heading
+{
+    font-size: 18px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+}
